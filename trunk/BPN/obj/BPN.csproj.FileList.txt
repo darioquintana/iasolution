@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\BPN.dll
+bin\Debug\BPN.pdb
+bin\Debug\LibMatrix.dll
+bin\Debug\LibMatrix.pdb
+obj\Debug\BPN.dll
+obj\Debug\BPN.pdb
+bin\Debug\matriz.xml
+bin\Release\matriz.xml
+bin\Release\BPN.dll
+bin\Release\BPN.pdb
+bin\Release\LibMatrix.dll
+bin\Release\LibMatrix.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BPN.dll
+obj\Release\BPN.pdb

@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<patrones>
+  <patron numero="0">
+    
+	  <carac nombre="Edad_21_40" valor="1"/>
+	  <carac nombre="Edad_40_60" valor="1"/>
+  	<carac nombre="Edad_mayor60" valor="-1"/>
+
+	  <carac nombre="Argentino" valor="1"/>
+	  <carac nombre="Extrangero" valor="-1"/>
+  	
+  	<carac nombre="Soltero" valor="1"/>
+	  <carac nombre="Casado" valor="1"/>
+	  <carac nombre="Viudo" valor="-1"/>
+	  <carac nombre="Divorciado" valor="-1"/>
+  	
+  	<carac nombre="PersACargo_1_4" valor="1"/>
+  	<carac nombre="PersACargo_4_7" valor="-1"/>
+  	<carac nombre="PersACargo_7" valor="-1"/>
+	  <carac nombre="PersACargo_No" valor="1"/>
+
+  	<carac nombre="Trabaja_Estatal" valor="1"/>
+  	<carac nombre="Trabaja_Privado" valor="1"/>
+  	<carac nombre="Trabaja_Inscripto" valor="1"/>
+  	<carac nombre="Trabaja_Monotrib" valor="-1"/>
+	  <carac nombre="NoTrabaja_Jubilado" valor="-1"/>
+	  <carac nombre="NoTrabaja_Pensionado" valor="-1"/>
+	  <carac nombre="NoTrabaja_Desocupado" valor="-1"/>
+
+  	<carac nombre="Antiguedad_1_4" valor="-1"/>
+  	<carac nombre="Antiguedad_4_7" valor="1"/>
+	  <carac nombre="Antiguedad_7_10" valor="1"/>
+	  <carac nombre="Antiguedad_10" valor="1"/>
+
+	  <carac nombre="Situacion1" valor="1"/>
+	  <carac nombre="Situacion2" valor="1"/>
+  	<carac nombre="Situacion3" valor="-1"/>
+
+  	<carac nombre="Ingreso_Menor_Credito" valor="-1"/>
+  	<carac nombre="Ingreso_Igual_Credito" valor="1"/>
+  	<carac nombre="Ingreso_Doble_Credito" valor="1"/>
+  	<carac nombre="Ingreso_Mas_Doble_Credito" valor="1"/>
+
+    <carac nombre="Inmuebles_menor_20" valor="-1"/>
+    <carac nombre="Inmuebles_20_40" valor="1"/>
+    <carac nombre="Inmuebles_40_60" valor="1"/>
+    <carac nombre="Inmuebles_mayor_60" valor="-1"/>
+
+    <carac nombre="Muebles_menor_2" valor="-1"/>
+    <carac nombre="Muebles_2_5" valor="1"/>
+    <carac nombre="Muebles_5_10" valor="1"/>
+    <carac nombre="Muebles_mayor_10" valor="-1"/>
+
+    <carac nombre="Cancelados_Menor2" valor="-1"/>
+    <carac nombre="Cancelados_2_4" valor="1"/>
+    <carac nombre="Cancelados_Mayor4" valor="1"/>
+
+    <carac nombre="Vigentes_Menor2" valor="1"/>
+    <carac nombre="Vigentes_2_4" valor="-1"/>
+    <carac nombre="Vigentes_Mayor4" valor="-1"/>
+
+    <carac nombre="Aptitud" valor="1"/>
+
+ </patron>
+
+  <patron numero="1">
+
+    <carac nombre="Edad_21_40" valor="1"/>
+    <carac nombre="Edad_40_60" valor="1"/>
+    <carac nombre="Edad_mayor60" valor="1"/>
+
+    <carac nombre="Argentino" valor="1"/>
+    <carac nombre="Extrangero" valor="1"/>
+
+    <carac nombre="Soltero" valor="-1"/>
+    <carac nombre="Casado" valor="1"/>
+    <carac nombre="Viudo" valor="-1"/>
+    <carac nombre="Divorciado" valor="1"/>
+
+    <carac nombre="PersACargo_1_4" valor="-1"/>
+    <carac nombre="PersACargo_4_7" valor="1"/>
+    <carac nombre="PersACargo_7" valor="1"/>
+    <carac nombre="PersACargo_No" valor="-1"/>
+
+    <carac nombre="Trabaja_Estatal" valor="-1"/>
+    <carac nombre="Trabaja_Privado" valor="-1"/>
+    <carac nombre="Trabaja_Inscripto" valor="-1"/>
+    <carac nombre="Trabaja_Monotrib" valor="1"/>
+    <carac nombre="NoTrabaja_Jubilado" valor="-1"/>
+    <carac nombre="NoTrabaja_Pensionado" valor="-1"/>
+    <carac nombre="NoTrabaja_Desocupado" valor="1"/>
+
+    <carac nombre="Antiguedad_1_4" valor="1"/>
+    <carac nombre="Antiguedad_4_7" valor="-1"/>
+    <carac nombre="Antiguedad_7_10" valor="-1"/>
+    <carac nombre="Antiguedad_10" valor="-1"/>
+
+    <carac nombre="Situacion1" valor="-1"/>
+    <carac nombre="Situacion2" valor="1"/>
+    <carac nombre="Situacion3" valor="1"/>
+
+    <carac nombre="Ingreso_Menor_Credito" valor="1"/>
+    <carac nombre="Ingreso_Igual_Credito" valor="1"/>
+    <carac nombre="Ingreso_Doble_Credito" valor="-1"/>
+    <carac nombre="Ingreso_Mas_Doble_Credito" valor="-1"/>
+
+    <carac nombre="Inmuebles_menor_20" valor="1"/>
+    <carac nombre="Inmuebles_20_40" valor="1"/>
+    <carac nombre="Inmuebles_40_60" valor="-1"/>
+    <carac nombre="Inmuebles_mayor_60" valor="-1"/>
+
+    <carac nombre="Muebles_menor_2" valor="1"/>
+    <carac nombre="Muebles_2_5" valor="-1"/>
+    <carac nombre="Muebles_5_10" valor="-1"/>
+    <carac nombre="Muebles_mayor_10" valor="-1"/>
+
+    <carac nombre="Cancelados_Menor2" valor="1"/>
+    <carac nombre="Cancelados_2_4" valor="1"/>
+    <carac nombre="Cancelados_Mayor4" valor="-1"/>
+
+    <carac nombre="Vigentes_Menor2" valor="-1"/>
+    <carac nombre="Vigentes_2_4" valor="1"/>
+    <carac nombre="Vigentes_Mayor4" valor="1"/>
+
+    <carac nombre="Aptitud" valor="2"/>
+
+  </patron>
+
+  <patron numero="2">
+
+    <carac nombre="Edad_21_40" valor="-1"/>
+    <carac nombre="Edad_40_60" valor="1"/>
+    <carac nombre="Edad_mayor60" valor="-1"/>
+
+    <carac nombre="Argentino" valor="1"/>
+    <carac nombre="Extrangero" valor="-1"/>
+
+    <carac nombre="Soltero" valor="-1"/>
+    <carac nombre="Casado" valor="-1"/>
+    <carac nombre="Viudo" valor="1"/>
+    <carac nombre="Divorciado" valor="-1"/>
+
+    <carac nombre="PersACargo_1_4" valor="-1"/>
+    <carac nombre="PersACargo_4_7" valor="1"/>
+    <carac nombre="PersACargo_7" valor="-1"/>
+    <carac nombre="PersACargo_No" valor="-1"/>
+
+    <carac nombre="Trabaja_Estatal" valor="-1"/>
+    <carac nombre="Trabaja_Privado" valor="-1"/>
+    <carac nombre="Trabaja_Inscripto" valor="-1"/>
+    <carac nombre="Trabaja_Monotrib" valor="1"/>
+    <carac nombre="NoTrabaja_Jubilado" valor="1"/>
+    <carac nombre="NoTrabaja_Pensionado" valor="1"/>
+    <carac nombre="NoTrabaja_Desocupado" valor="-1"/>
+
+    <carac nombre="Antiguedad_1_4" valor="1"/>
+    <carac nombre="Antiguedad_4_7" valor="-1"/>
+    <carac nombre="Antiguedad_7_10" valor="-1"/>
+    <carac nombre="Antiguedad_10" valor="-1"/>
+
+    <carac nombre="Situacion1" valor="-1"/>
+    <carac nombre="Situacion2" valor="1"/>
+    <carac nombre="Situacion3" valor="-1"/>
+
+    <carac nombre="Ingreso_Menor_Credito" valor="-1"/>
+    <carac nombre="Ingreso_Igual_Credito" valor="1"/>
+    <carac nombre="Ingreso_Doble_Credito" valor="-1"/>
+    <carac nombre="Ingreso_Mas_Doble_Credito" valor="-1"/>
+
+    <carac nombre="Inmuebles_menor_20" valor="-1"/>
+    <carac nombre="Inmuebles_20_40" valor="1"/>
+    <carac nombre="Inmuebles_40_60" valor="-1"/>
+    <carac nombre="Inmuebles_mayor_60" valor="-1"/>
+
+    <carac nombre="Muebles_menor_2" valor="1"/>
+    <carac nombre="Muebles_2_5" valor="-1"/>
+    <carac nombre="Muebles_5_10" valor="-1"/>
+    <carac nombre="Muebles_mayor_10" valor="-1"/>
+
+    <carac nombre="Cancelados_Menor2" valor="-1"/>
+    <carac nombre="Cancelados_2_4" valor="1"/>
+    <carac nombre="Cancelados_Mayor4" valor="-1"/>
+
+    <carac nombre="Vigentes_Menor2" valor="-1"/>
+    <carac nombre="Vigentes_2_4" valor="1"/>
+    <carac nombre="Vigentes_Mayor4" valor="-1"/>
+
+    <carac nombre="Aptitud" valor="3"/>
+
+  </patron>
+
+</patrones>

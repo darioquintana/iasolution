@@ -1,0 +1,12 @@
+bin\Debug\LibMatrix.dll
+bin\Debug\LibMatrix.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LibMatrix.dll
+obj\Debug\LibMatrix.pdb
+bin\Debug\matriz.xml
+bin\Release\matriz.xml
+bin\Release\LibMatrix.dll
+bin\Release\LibMatrix.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LibMatrix.dll
+obj\Release\LibMatrix.pdb

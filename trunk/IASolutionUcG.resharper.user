@@ -1,0 +1,30 @@
+<Configuration>
+  <CompletionStatisticsManager />
+  <EditorManager>
+    <RecentFiles>
+      <File id="E1710079-A054-423C-AD44-4DE40E7240AE/f:Patrones.cs" caret="5243" visual-x="0" visual-y="2754" />
+      <File id="E1710079-A054-423C-AD44-4DE40E7240AE/f:Patron.cs" caret="2496" visual-x="0" visual-y="1377" />
+      <File id="7C7E2577-E620-4AD7-BABF-2B60D36175DD/f:Helper.cs" caret="3630" visual-x="0" visual-y="1343" />
+      <File id="E1710079-A054-423C-AD44-4DE40E7240AE/f:Caracteristica.cs" caret="881" visual-x="0" visual-y="510" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+    <DecorateModifiers>False</DecorateModifiers>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

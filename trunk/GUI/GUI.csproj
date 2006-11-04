@@ -1,0 +1,221 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{88D3310A-73A2-4D61-945F-B8976D598AF1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AcercaDe.Designer.cs">
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enumeraciones.cs" />
+    <Compile Include="frmAyuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAyuda.Designer.cs">
+      <DependentUpon>frmAyuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEntrenar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEntrenar.designer.cs">
+      <DependentUpon>frmEntrenar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAltaPatronesHop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAltaPatronesHop.Designer.cs">
+      <DependentUpon>frmAltaPatronesHop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerPatronesBpn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerPatronesBpn.Designer.cs">
+      <DependentUpon>frmVerPatronesBpn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerPatronesHop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerPatronesHop.Designer.cs">
+      <DependentUpon>frmVerPatronesHop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI.Designer.cs">
+      <DependentUpon>MDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemLista.cs" />
+    <Compile Include="Opciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Opciones.Designer.cs">
+      <DependentUpon>Opciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AcercaDe.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAyuda.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAyuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEntrenar.resx">
+      <DependentUpon>frmEntrenar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAltaPatronesHop.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAltaPatronesHop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerPatronesBpn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmVerPatronesBpn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerPatronesHop.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmVerPatronesHop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Opciones.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Opciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmDesicion.Designer.cs">
+      <DependentUpon>frmDesicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDesicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="frmDesicion.resx">
+      <DependentUpon>frmDesicion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BPN\BPN.csproj">
+      <Project>{2160FC4A-0C63-4C8E-B14D-73E15541DD4B}</Project>
+      <Name>BPN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HelperConfig\HelperConfig.csproj">
+      <Project>{47064C3D-03FF-4145-9002-2ED262BEF4D3}</Project>
+      <Name>HelperConfig</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hopfield\Hopfield.csproj">
+      <Project>{300C252C-5718-404E-9BD2-CCF1D0CF10D7}</Project>
+      <Name>Hopfield</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibMatrix\LibMatrix.csproj">
+      <Project>{7C7E2577-E620-4AD7-BABF-2B60D36175DD}</Project>
+      <Name>LibMatrix</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\sxml\sxml.csproj">
+      <Project>{E1710079-A054-423C-AD44-4DE40E7240AE}</Project>
+      <Name>sxml</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="patrones_bpn.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\3floppy_unmount.png" />
+    <None Include="Resources\3floppy_unmount1.png" />
+    <Content Include="patrones_hop.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\clock.gif" />
+    <None Include="Resources\Browse 1.ico" />
+    <None Include="Resources\Browse 3.ico" />
+    <None Include="Resources\Add Card.ico" />
+    <None Include="Resources\Advanced Options.ico" />
+    <Content Include="patrones_hopI.xml" />
+    <Content Include="Resources\Control Panel2.ico" />
+    <None Include="Resources\Spell.ico" />
+    <None Include="Resources\Delete.ico" />
+    <None Include="Resources\Save.ico" />
+    <None Include="Resources\Favourites.ico" />
+    <None Include="Resources\Windows Folder.ico" />
+    <None Include="Resources\Forward - Next.ico" />
+    <None Include="Resources\Stop 2.ico" />
+    <None Include="Resources\Media Player.ico" />
+    <Content Include="Wentrada.xml">
+    </Content>
+    <Content Include="Wsalida.xml">
+    </Content>
+    <None Include="Resources\Help.ico" />
+    <None Include="Resources\face-sad.png" />
+    <None Include="Resources\face-grin.png" />
+    <None Include="Resources\face-smile.png" />
+    <None Include="Resources\dialog-error.png" />
+    <None Include="Resources\system-config-users.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\redhat-system_tools.png" />
+    <None Include="Resources\Run2.ico" />
+    <None Include="Resources\Floppy Drive2.ico" />
+    <None Include="Resources\Windows Explorer3.ico" />
+    <None Include="Resources\Recycle Bin Full.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
