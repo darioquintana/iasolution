@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\sxml.pdb
+obj\Debug\sxml.pdb
+bin\Debug\sxml.dll
+obj\Debug\sxml.dll
+bin\Release\sxml.dll
+bin\Release\sxml.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\sxml.dll
+obj\Release\sxml.pdb

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>» Reconocimiento --------------------------------------------------------------------
+ 
+    El reconocimiento realizado por ambas redes esta basada en el modelo de cliente propuesto y utilizado en la actualidad por la Empresa VISAN S.A. para el otorgamiento de créditos personales, y sobre el cual se basa todo nuestro análisis.
+    Dicho modelo parte de la base en que el cliente cumple con los requisitos esenciales y restrictivos impuestos por la financiera (ejemplo: Edad mínima y máxima, ingreso y/o garante, etc.).
+    Descripción de las características del modelo:
+    · Edad: Importante para evaluar el resto de las características según la cantidad de años de la persona.
+    · Nacionalidad: Característica necesaria a la hora de evaluar la historia de un cliente.
+    · Estado Civil: Refleja el grado de responsabilidades a cargo y cultura del cliente.
+    · Personas a Cargo: Implica el compromiso de un egreso patrimonial del cliente.
+    · Situación Laboral: Importante para determinar el grado en el que el cliente puede responder a la cancelación del crédito. 
+    · Años de Antigüedad: Refleja la solides del desempeño laboral del cliente, respecto a la edad actual.
+    · Situación en el VERAZ: Refleja el grado de endeudamiento y compromisos financieros con otras empresas.
+    · Ingreso Salarial: Importante para determinar la medida en la que el cliente puede cancelar la cuota con un ingreso mensual propio, y el grado de dependencia hacia un garante.
+    · Inmuebles: Importante para ver el grado en que el cliente puede cancelar la deuda ante alguna irregularidad en cumplimiento del pago del crédito. Se evalúa la cantidad de veces el valor del crédito. Ej: 12 veces mas que el monto del crédito.
+    · Muebles: Ídem Inmuebles, con la diferencia que éste último posee mayor liquides y es más utilizado. Se evalúa la cantidad de veces el valor del crédito. Ej: 5 veces mas que el monto del crédito.
+    · Créditos Cancelados: Refleja la historia financiera y la responsabilidad con la cancelación favorable de créditos anteriores.
+    · Créditos Vigentes: Importante para determinar el grado de compromisos financieros respecto a las características.
+
+
+» Aprendizaje -------------------------------------------------------------------------
+
+    El aprendizaje y/o entrenamiento en la red Back Propagation es dinámico (Nro. neuronas en la capa oculta, factores, etc.). No obstante, se sugiere la configuración predeterminada que promete un mejor rendimiento según los ensayos realizados por el equipo de desarrollo.
+    El aprendizaje en la red de Hopfield se realiza en el momento de reconocer un determinado perfil (instante en que se instancia la clase).
+
+ 
+» Explorador de Patrones de Entrenamiento --------------------------
+
+    Desde el menú principal se puede acceder a los formularios correspondientes para la visualización de los patrones actuales utilizados en la tapa de aprendizaje en cada una de las correspondientes redes.
+
+
+» Agregar Patrón de Entrenamiento en Back Propagation ----
+
+    La aplicación permite agregar patrones a la base de ejemplos de la BPN previendo la posible reconfiguración de los perfiles de entrenamiento, o bien, lograr un aprendizaje mas robusto al contar con mas ejemplos.
+</value>
+  </data>
+</root>

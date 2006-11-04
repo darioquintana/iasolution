@@ -1,0 +1,1682 @@
+<?xml version="1.0"?><patrones>
+<patron numero="0">
+<carac nombre="carac0" valor="25" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="15" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="1">
+<carac nombre="carac0" valor="34" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="8" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="22" />
+<carac nombre="carac9" valor="3" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="2">
+<carac nombre="carac0" valor="62" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="3" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="19" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="3">
+<carac nombre="carac0" valor="21" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="3" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="4">
+<carac nombre="carac0" valor="21" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="5">
+<carac nombre="carac0" valor="22" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="48" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="6">
+<carac nombre="carac0" valor="30" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="1" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="20" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="7">
+<carac nombre="carac0" valor="42" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="9" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="8">
+<carac nombre="carac0" valor="36" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="3" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="49" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="9">
+<carac nombre="carac0" valor="40" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="7" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="30" />
+<carac nombre="carac9" valor="15" />
+<carac nombre="carac10" valor="5" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="10">
+<carac nombre="carac0" valor="29" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="11">
+<carac nombre="carac0" valor="27" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="27" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="12">
+<carac nombre="carac0" valor="34" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="11" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="62" />
+<carac nombre="carac9" valor="14" />
+<carac nombre="carac10" valor="8" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="13">
+<carac nombre="carac0" valor="50" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="10" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="14">
+<carac nombre="carac0" valor="34" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="9" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="20" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="41" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="15">
+<carac nombre="carac0" valor="23" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="16" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="16">
+<carac nombre="carac0" valor="23" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="6" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="17">
+<carac nombre="carac0" valor="23" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="5" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="18">
+<carac nombre="carac0" valor="40" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="10" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="25" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="19">
+<carac nombre="carac0" valor="25" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="12" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="20">
+<carac nombre="carac0" valor="32" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="21" />
+<carac nombre="carac9" valor="0" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="21">
+<carac nombre="carac0" valor="55" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="3" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="20" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="36" />
+<carac nombre="carac9" valor="3" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="22">
+<carac nombre="carac0" valor="64" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="7" />
+<carac nombre="carac4" valor="6" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="12" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="23">
+<carac nombre="carac0" valor="57" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="48" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="24">
+<carac nombre="carac0" valor="28" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="1" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="11" />
+<carac nombre="carac10" valor="4" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="25">
+<carac nombre="carac0" valor="28" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="18" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="26">
+<carac nombre="carac0" valor="29" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="33" />
+<carac nombre="carac9" valor="15" />
+<carac nombre="carac10" valor="4" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="27">
+<carac nombre="carac0" valor="29" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="8" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="5" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="16" />
+<carac nombre="carac9" valor="3" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="28">
+<carac nombre="carac0" valor="62" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="6" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="28" />
+<carac nombre="carac9" valor="11" />
+<carac nombre="carac10" valor="4" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="29">
+<carac nombre="carac0" valor="45" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="6" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="20" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="30">
+<carac nombre="carac0" valor="63" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="6" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="21" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="31">
+<carac nombre="carac0" valor="32" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="32">
+<carac nombre="carac0" valor="41" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="49" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="33">
+<carac nombre="carac0" valor="34" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="10" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="33" />
+<carac nombre="carac9" valor="8" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="34">
+<carac nombre="carac0" valor="42" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="6" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="19" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="35">
+<carac nombre="carac0" valor="64" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="3" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="6" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="22" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="36">
+<carac nombre="carac0" valor="30" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="7" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="25" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="37">
+<carac nombre="carac0" valor="30" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="5" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="38">
+<carac nombre="carac0" valor="51" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="20" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="55" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="5" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="39">
+<carac nombre="carac0" valor="21" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="40">
+<carac nombre="carac0" valor="29" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="11" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="41">
+<carac nombre="carac0" valor="38" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="3" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="16" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="19" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="42">
+<carac nombre="carac0" valor="38" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="11" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="43">
+<carac nombre="carac0" valor="39" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="1" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="12" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="75" />
+<carac nombre="carac9" valor="15" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="44">
+<carac nombre="carac0" valor="25" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="3" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="15" />
+<carac nombre="carac9" valor="5" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="45">
+<carac nombre="carac0" valor="31" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="3" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="8" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="46">
+<carac nombre="carac0" valor="34" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="1" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="11" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="11" />
+<carac nombre="carac10" valor="4" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="47">
+<carac nombre="carac0" valor="43" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="3" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="18" />
+<carac nombre="carac9" valor="8" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="48">
+<carac nombre="carac0" valor="23" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="5" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="49">
+<carac nombre="carac0" valor="24" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="50">
+<carac nombre="carac0" valor="32" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="8" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="51">
+<carac nombre="carac0" valor="32" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="5" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="52">
+<carac nombre="carac0" valor="24" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="12" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="53">
+<carac nombre="carac0" valor="24" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="8" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="54">
+<carac nombre="carac0" valor="24" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="49" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="55">
+<carac nombre="carac0" valor="37" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="12" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="31" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="56">
+<carac nombre="carac0" valor="37" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="6" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="3" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="57">
+<carac nombre="carac0" valor="39" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="17" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="58">
+<carac nombre="carac0" valor="32" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="9" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="31" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="59">
+<carac nombre="carac0" valor="33" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="6" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="3" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="60">
+<carac nombre="carac0" valor="33" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="5" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="17" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="61">
+<carac nombre="carac0" valor="51" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="25" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="62" />
+<carac nombre="carac9" valor="15" />
+<carac nombre="carac10" valor="7" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="62">
+<carac nombre="carac0" valor="52" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="7" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="22" />
+<carac nombre="carac9" valor="6" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="63">
+<carac nombre="carac0" valor="52" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="9" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="20" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="40" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="64">
+<carac nombre="carac0" valor="44" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="3" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="16" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="65">
+<carac nombre="carac0" valor="48" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="3" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="8" />
+<carac nombre="carac10" valor="4" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="66">
+<carac nombre="carac0" valor="26" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="16" />
+<carac nombre="carac9" valor="6" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="67">
+<carac nombre="carac0" valor="28" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="7" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="10" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="3" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="68">
+<carac nombre="carac0" valor="27" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="19" />
+<carac nombre="carac9" valor="5" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="69">
+<carac nombre="carac0" valor="59" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="30" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="29" />
+<carac nombre="carac9" valor="20" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="70">
+<carac nombre="carac0" valor="60" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="31" />
+<carac nombre="carac9" valor="3" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="71">
+<carac nombre="carac0" valor="61" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="6" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="20" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="30" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="72">
+<carac nombre="carac0" valor="24" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="19" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="73">
+<carac nombre="carac0" valor="54" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="11" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="74">
+<carac nombre="carac0" valor="63" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="3" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="37" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="75">
+<carac nombre="carac0" valor="25" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="33" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="76">
+<carac nombre="carac0" valor="25" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="6" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="19" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="77">
+<carac nombre="carac0" valor="26" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="3" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="6" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="22" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="78">
+<carac nombre="carac0" valor="26" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="54" />
+<carac nombre="carac9" valor="8" />
+<carac nombre="carac10" valor="5" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="79">
+<carac nombre="carac0" valor="26" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="6" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="80">
+<carac nombre="carac0" valor="31" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="1" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="20" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="81">
+<carac nombre="carac0" valor="43" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="9" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="82">
+<carac nombre="carac0" valor="40" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="3" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="3" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="49" />
+<carac nombre="carac9" valor="4" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="83">
+<carac nombre="carac0" valor="36" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="7" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="38" />
+<carac nombre="carac9" valor="15" />
+<carac nombre="carac10" valor="5" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="84">
+<carac nombre="carac0" valor="26" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="85">
+<carac nombre="carac0" valor="56" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="7" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="18" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="68" />
+<carac nombre="carac9" valor="9" />
+<carac nombre="carac10" valor="5" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="86">
+<carac nombre="carac0" valor="57" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="18" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="22" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="87">
+<carac nombre="carac0" valor="27" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="1" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="5" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="75" />
+<carac nombre="carac9" valor="15" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="88">
+<carac nombre="carac0" valor="27" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="15" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="89">
+<carac nombre="carac0" valor="31" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="2" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="6" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="90">
+<carac nombre="carac0" valor="31" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="4" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="5" />
+<carac nombre="carac10" valor="0" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="91">
+<carac nombre="carac0" valor="37" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="6" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="30" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="29" />
+<carac nombre="carac9" valor="20" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="92">
+<carac nombre="carac0" valor="37" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="7" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="32" />
+<carac nombre="carac9" valor="3" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="93">
+<carac nombre="carac0" valor="39" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="3" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="15" />
+<carac nombre="carac9" valor="8" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="3" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="94">
+<carac nombre="carac0" valor="44" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="3" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="4" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="95">
+<carac nombre="carac0" valor="44" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="4" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="17" />
+<carac nombre="carac9" valor="6" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="0" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="96">
+<carac nombre="carac0" valor="47" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="7" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="9" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="97">
+<carac nombre="carac0" valor="45" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="5" />
+<carac nombre="carac4" valor="3" />
+<carac nombre="carac5" valor="30" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="29" />
+<carac nombre="carac9" valor="20" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="98">
+<carac nombre="carac0" valor="46" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="8" />
+<carac nombre="carac4" valor="4" />
+<carac nombre="carac5" valor="20" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="30" />
+<carac nombre="carac9" valor="7" />
+<carac nombre="carac10" valor="3" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="99">
+<carac nombre="carac0" valor="48" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="2" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="11" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="2" />
+<carac nombre="carac11" valor="2" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="100">
+<carac nombre="carac0" valor="36" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="4" />
+<carac nombre="carac3" valor="7" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="1" />
+<carac nombre="carac8" valor="12" />
+<carac nombre="carac9" valor="2" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="4" />
+<carac nombre="carac12" valor="0" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="101">
+<carac nombre="carac0" valor="46" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="0" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="6" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="19" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="1" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="102">
+<carac nombre="carac0" valor="53" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="3" />
+<carac nombre="carac3" valor="3" />
+<carac nombre="carac4" valor="6" />
+<carac nombre="carac5" valor="0" />
+<carac nombre="carac6" valor="3" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="37" />
+<carac nombre="carac9" valor="1" />
+<carac nombre="carac10" valor="5" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+<patron numero="103">
+<carac nombre="carac0" valor="35" />
+<carac nombre="carac1" valor="2" />
+<carac nombre="carac2" valor="2" />
+<carac nombre="carac3" valor="4" />
+<carac nombre="carac4" valor="2" />
+<carac nombre="carac5" valor="19" />
+<carac nombre="carac6" valor="1" />
+<carac nombre="carac7" valor="3" />
+<carac nombre="carac8" valor="33" />
+<carac nombre="carac9" valor="14" />
+<carac nombre="carac10" valor="4" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="0" />
+</patron>
+<patron numero="104">
+<carac nombre="carac0" valor="35" />
+<carac nombre="carac1" valor="1" />
+<carac nombre="carac2" valor="1" />
+<carac nombre="carac3" valor="3" />
+<carac nombre="carac4" valor="1" />
+<carac nombre="carac5" valor="1" />
+<carac nombre="carac6" valor="2" />
+<carac nombre="carac7" valor="2" />
+<carac nombre="carac8" valor="0" />
+<carac nombre="carac9" valor="8" />
+<carac nombre="carac10" valor="4" />
+<carac nombre="carac11" valor="1" />
+<carac nombre="carac12" valor="1" />
+<carac nombre="carac13" valor="1" />
+</patron>
+</patrones>
